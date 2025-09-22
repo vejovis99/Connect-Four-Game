@@ -1,4 +1,7 @@
 # Connect four
+
+## Summary
+
 A game of connect four against AI.
 
 ![image](https://github.com/gdsc-ipsacademy/Connect-Four-Game/assets/81830617/9ffb20cd-9c8e-40fd-9fb6-8942ffdb02a1)
